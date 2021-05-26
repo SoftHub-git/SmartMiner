@@ -5,16 +5,6 @@ SMP + is a software product developed by SmartMiner.PRO with a simple and conven
 DOWNLOAD LINKS:
 =================================
 
-SmartMinerPRO (53.99 MB):
--------------------------
-- https://fex.net/s/7aydae1
-- https://mega.nz/file/Z08yQQLK#SirXSk47JRBwIvkKMbJAuWbpimuExxv4P8D5f-tOkWY
-
-SmartMinerPRO+ (478.44 MB):
----------------------------
-- https://fex.net/s/smlnnlr
-- https://mega.nz/file/F08w3AJB#UFK6fOeBiV5cbciRK7DkenRDBiWFH-TrIGQJVhefJb0
-
 Key Features SMP:
 =================================
 
@@ -116,17 +106,6 @@ How to use
 4. After replacing the values of the wallet and pool with yours, click "RUN"
 5. Then begins the extraction of coins
 
-DevFee & Donations
-===================
-
-SmartMinerPRO (SMP / SMP +) is completely free software. This does not apply to built-in programs for mining (miners).
-
-You can thank the SMP + development team at the following addresses:
-- BTC: 197QDx1Sif2MVH29juDbbrErhBAkxMBXQX
-- ETH: 0xC16079Aeb717053cFb3F5Abb92fb55F81A3AD9C9
-- ZEC: t1TVRXgQmrgHHeaheYt9mFrqh1LZBJtrfiQ
-- LTC: LWtnQjnfJe9ALd3gYwPGUxAej5JGMLPsoK
-- RVN: RV8Tz58pZ6Q6fFn5LGGN8hQsUoPzJC1vMi
 
 Command line options
 =====================
