@@ -4,6 +4,8 @@ SMP + is a software product developed by SmartMiner.PRO with a simple and conven
 
 DOWNLOAD LINKS:
 =================================
+https://github.com/MiningSoftware/SmartMinerPRO/releases
+-----------------------------------------------------------
 
 Key Features SMP:
 =================================
